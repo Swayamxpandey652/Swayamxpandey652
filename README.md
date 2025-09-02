@@ -31,9 +31,7 @@
 
 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshh-bhardwaj&show_icons=true&theme=tokyonight" alt="akshh-bhardwaj" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swayamxpandey652&theme=tokyonight" alt="Swayamxpandey652" />
